@@ -1,0 +1,3 @@
+[submodule "pocketmine"]
+	path = pocketmine
+	url = https://github.com/PocketMine/PocketMine-MP

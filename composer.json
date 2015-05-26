@@ -1,0 +1,16 @@
+{
+  "name": "falkirks/FlamingClient",
+  "description": "A library to build event based bots for MCPE",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "flamingclient\\": "src/flamingclient",
+      "raklib\\": "lib/pocketmine/src/raklib/",
+      "pocketmine\\": "lib/pocketmine/src/pocketmine/",
+      "": "lib/pocketmine/src/spl/"
+    }
+  },
+  "require": {
+    "ext-gd": "*"
+  }
+}
